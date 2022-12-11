@@ -2,12 +2,13 @@
 <p align="center">
 
   <h3 align="center">Blanja API</h3>
-  <p align="center">
-    <image align="center" width="200" src='./assets/' />
-  </p>
+  <div align="center"><img src="https://github.com/ainurcoding/blanja_app_fe/blob/master/src/assets/images/blanja_icon.png" height="50" width="50"/></div>
+<div align='center'><a href='https://github.com/ainurcoding/blanja_app_fe'> >>Visit frontend repository<< </a></div>
 </p>
 
+## Description
 
+<p>Blanja App is a Business to Customer  e-commerce application that makes transactions between website services and online sellers, where online sellers can post their wares on this website. This website is built with PERN technology (PSQL, ExpressJS, ReactJS, and NodeJS). This website is built on teamwork, and I act as a front-end developer, where the front-end developer is in charge of making this website more dynamic with the API provided by the back-end team. ReactJS is the technology that I use in developing the front end for this website.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -89,7 +90,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- RELATED PROJECT -->
 ## Related Project
 Blanja application
-* [Blanja Application](https://github.com/reijiren/Blanja-Application/tree/main/frontend)
+* [Blanja Application](https://github.com/ainurcoding/blanja_app_fe)
 
 
 <!-- CONTACT -->
