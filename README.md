@@ -89,7 +89,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- RELATED PROJECT -->
 ## Related Project
-Blanja application
+Blanja application (frontend repository)
 * [Blanja Application](https://github.com/ainurcoding/blanja_app_fe)
 
 ## Demo Application
